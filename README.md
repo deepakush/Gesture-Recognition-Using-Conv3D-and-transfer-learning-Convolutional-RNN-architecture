@@ -1,4 +1,4 @@
-## Gesture-Recognition-Using-Conv3D | Transfer-learning/CNN +RNN -architectures
+## Gesture-Recognition-Using-Conv3D | Transfer-learning/CNN +RNN -architectures 
  
 ### Develop a real-time Hand Gesture Recognition system for cool feature in the Smart-TV | IIITB-Case-Study
 
@@ -35,9 +35,9 @@ The conv2D network will extract a feature vector for each image, and a sequence 
 
 ### Data Pre-processing
 
-•	Resizing and cropping of the images. This was mainly done to ensure that the NN only recognizes the gestures effectively rather than focusing on the other background noise present in the image.
+•	**Resizing and cropping** of the images. This was mainly done to ensure that the NN only recognizes the gestures effectively rather than focusing on the other background noise present in the image.
 
-•	Normalization of the images. Normalizing the RGB values of an image can at times be a simple and effective way to get rid of distortions caused by lights and shadows in an image.
+•	**Normalization** of the images. Normalizing the RGB values of an image can at times be a simple and effective way to get rid of distortions caused by lights and shadows in an image.
 
 •	At the later stages for improving the model’s accuracy, we have also made use of data augmentation, where we have slightly rotated the pre-processed images of the gestures in order to bring in more data for the model to train on and to make it more generalizable in nature as sometimes the positioning of the hand won’t necessarily be within the camera frame always.
 
