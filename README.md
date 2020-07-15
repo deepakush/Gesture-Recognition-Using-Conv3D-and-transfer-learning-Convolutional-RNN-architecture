@@ -1,6 +1,6 @@
 ## Gesture-Recognition-Using-Conv3D | Transfer-learning/CNN +RNN -architectures 
  
-### Develop a real-time Hand Gesture Recognition system for cool feature in the Smart-TV | IIITB-Case-Study
+### Developed a real-time Hand Gesture Recognition system for cool feature in the Smart-TV | IIITB-Case-Study
 
 #### `Developers`
 > [Deepa Kushwaha](https://github.com/deepakush)
