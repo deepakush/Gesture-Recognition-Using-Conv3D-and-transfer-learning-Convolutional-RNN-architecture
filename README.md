@@ -43,7 +43,6 @@ The conv2D network will extract a feature vector for each image, and a sequence 
 
 ![gesture_snap6](https://user-images.githubusercontent.com/40426356/87458305-680e1900-c627-11ea-9cf4-4ab0b6e61f43.PNG)
 
-### After doing all the experiments,finalized Model 8– CNN+LSTM, which performed well.
 
 `Reason:`
 
